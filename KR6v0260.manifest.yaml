@@ -1,0 +1,45 @@
+canonical_identifier: bkk:krp/KR6v0260/v1
+canonical_location: https://kanripo.org/bkk/KR6v0260/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 瓽仲義八十人等造像記
+  identifiers:
+    alt_id:
+    - I01n0097
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0097.xml
+    old_id: I01n0097
+  edition:
+    short: bkk
+editions:
+- short: 佛拓
+  label: 佛拓
+  source_xml_id: wit.orig
+- short: 史
+  label: 史
+  source_xml_id: wit1
+- short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0260_000.yaml, hash: 'sha256:3f47a45268be2ce5c2130f1aadb39b464f3b0ff75013276635d656c929f1198a'}
+  - {seq: 1, filename: KR6v0260_001.yaml, hash: 'sha256:c408145c1c5090318d216c4d49cbbcf46ab5742c4eaa7584a5d6347d42a6a2d7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0260_001.markers.yaml, hash: 'sha256:a110a9a4b79646dc573db24a3fa15cf758c97882e113bc1e57ccd2d7d401b5ae'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0260_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 377
+  label: 瓽仲義八十人等造像記
+  type: juan
+  level: 1
+hash: sha256:15ebbc11b04fea10011690bf8f4c9725f98a1c59cafcade93b64f49830bb6f3d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

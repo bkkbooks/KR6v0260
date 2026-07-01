@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0260/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瓽仲義八十人等造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0097.xml
+    old_id: I01n0097
+hash: sha256:3f47a45268be2ce5c2130f1aadb39b464f3b0ff75013276635d656c929f1198a
