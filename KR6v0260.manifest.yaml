@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0260_000.yaml, hash: 'sha256:3f47a45268be2ce5c2130f1aadb39b464f3b0ff75013276635d656c929f1198a'}
-  - {seq: 1, filename: KR6v0260_001.yaml, hash: 'sha256:c408145c1c5090318d216c4d49cbbcf46ab5742c4eaa7584a5d6347d42a6a2d7'}
+  - {seq: 1, filename: KR6v0260_001.yaml, hash: 'sha256:430eb78f91ea9a1f3fe1f3e321bab7697c6076c9068f976bb9550c2ace47337f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0260_001.markers.yaml, hash: 'sha256:a110a9a4b79646dc573db24a3fa15cf758c97882e113bc1e57ccd2d7d401b5ae'}
+  - {seq: 0, role: markers, filename: assets/KR6v0260_000.markers.yaml, hash: 'sha256:9517536b8cc0a47bd10d4fa7c73738aae6fa27654cb66bb4fbf78dd203fb56fc'}
+  - {seq: 1, role: markers, filename: assets/KR6v0260_001.markers.yaml, hash: 'sha256:b06becba38eab360f35202e2582ff77308407372c8145c46ff5bdebee4044912'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 瓽仲義八十人等造像記
   type: juan
   level: 1
-hash: sha256:15ebbc11b04fea10011690bf8f4c9725f98a1c59cafcade93b64f49830bb6f3d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9609a73a1796c91ee8c6b81fbe59ca75ac0ec1d2c0c09ea02578582397c920b3
